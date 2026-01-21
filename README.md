@@ -1,4 +1,4 @@
-# fayezmart
+# FayezMart
 
 A new Flutter project.
 
